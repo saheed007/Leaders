@@ -1,0 +1,12 @@
+INSERT INTO PRIME_MINISTERS (country,continent,prime_minister)
+VALUES
+("Egypt","Africa","Sherif Ismail"),
+("Portugal","Europe","Antonio Costa"),
+("Vietnam","Asia","Nguyen Xuan Phuc"),
+("Haiti","North America","Jack Guy Lafontant"),
+("India","Asia","Narendra Modi"),
+("Australia","Oceania","Malcolm Turnbull"),
+("Norway","Europe","Erna Solberg"),
+("Brunei","Asia","Hassanal Bolkiah"),
+("Oman","Asia","Qaboos bin Said al Said"),
+("Spain","Europe","Mariano Rajoy");
